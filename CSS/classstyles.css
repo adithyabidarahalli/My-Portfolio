@@ -1,0 +1,23 @@
+.left{
+    font-weight: 700;
+    font-size: 24px;
+}
+.firstSection{
+    display: flex;
+    justify-content: space-around;
+    margin: 23px 0;
+}
+.firstSection > div{
+    width: 30%;
+}
+
+.leftSection{
+  
+    width: 50%;
+    font-size: 2rem;
+}
+
+.rightSection{
+   
+    width: 50%;
+}
