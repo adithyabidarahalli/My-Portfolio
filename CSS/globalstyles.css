@@ -11,3 +11,23 @@
     background-color: rgb(98, 98, 182);
     color: white;
     }
+    a{
+        text-decoration: none;
+        color: white;
+        
+    }
+    button{
+        background-color: transparent;
+        border: 2px solid white;
+        padding: 8px 16px;
+        border-radius: 5px;
+        color: white;   
+        font-family: 'Poppins', sans-serif;
+        cursor: pointer;
+
+    }
+    button:hover{
+        background-color: rgb(119, 126, 121);
+        color: rgb(98, 98, 182);
+        transition: 0.3s;
+    }
