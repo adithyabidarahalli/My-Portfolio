@@ -21,3 +21,18 @@
    
     width: 50%;
 }
+.myPhoto{
+    border-radius: 25%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.about{
+  
+    font-size: 1.2rem;
+    margin: 0 15%;
+    line-height: 1.6;
+}
+.purple{
+    color: rgb(223, 28, 223);
+    font-weight: bold;
+    font-family: 'Arial Black', Gadget, sans-serif;
+}
